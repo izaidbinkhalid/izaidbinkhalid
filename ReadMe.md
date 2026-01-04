@@ -1,193 +1,269 @@
-<div align="center">
-  
-# 👋 Hi there, I'm Muhammad Zaid Bin Khalid!
-
-<h3 align="center">🚀 Full-Stack Web Developer | Crafting Digital Excellence</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB,+I'm+Muhammad+Zaid+Bin+Khalid!;Full-Stack+Web+Developer;Creating+Innovative+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="250" />
-</p>
-
-<p align="center">
-  <b><i>"Transforming visions into powerful, scalable web applications that drive business success!"</i></b>
-</p>
-
----
-
-</div>
-
-## ✨ What I Bring to Your Project
+<!--
+  ╔═══════════════════════════════════════════════════════════════════════════╗
+  ║                                                                           ║
+  ║                    👨‍💻 MUHAMMAD ZAID BIN KHALID 👨‍💻                      ║
+  ║                                                                           ║
+  ║              🚀 Full-Stack Developer | Code Architect | Problem Solver    ║
+  ║                                                                           ║
+  ╚═══════════════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-🎯 **Client-Focused Development** | 🔧 **Modern Tech Stack** | ⚡ **Performance-Optimized Solutions** | 🎨 **Beautiful User Experiences**
+```diff
++ Turning coffee into code ☕ → 💻
++ Building the future, one commit at a time 🚀
++ Passionate about creating digital experiences that matter ✨
+```
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB,+I'm+Muhammad+Zaid+Bin+Khalid!;Full-Stack+Web+Developer;Code+Architect+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%BB;Innovation+Enthusiast+%F0%9F%8E%89" alt="Typing SVG" />
 
----
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
 
-## 💼 About Me
+<br>
 
-<div align="center">
+<details>
+<summary><b>🎯 Click to see my mission statement</b></summary>
+<br>
 
-🚀 **Currently:** Building cutting-edge full-stack applications with **React.js** and **Node.js**  
-💡 **Philosophy:** Delivering clean, maintainable code that scales with your business  
-🎓 **Approach:** Continuous learning and adoption of industry best practices  
-🤝 **Goal:** Partnering with clients to turn their ideas into profitable digital products
+> _"I don't just write code—I craft solutions. Every line of code is a step toward building something that matters, something that solves real problems, and something that makes a difference. Let's build the future together!"_
+
+</details>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect & Collaborate
+## 🎭 The Story Behind the Code
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🎬 Once upon a time, there was a developer who believed    │
+│     that great software comes from understanding both      │
+│     the problem AND the people behind it.                  │
+│                                                             │
+│  💡 Today, I'm that developer—combining technical          │
+│     expertise with creative problem-solving to deliver     │
+│     solutions that don't just work, they excel.            │
+│                                                             │
+│  🚀 Currently exploring: Full-Stack Development with       │
+│     React.js, Node.js, and modern web technologies        │
+│                                                             │
+│  🌱 Always learning, always growing, always building       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🛠️ My Digital Toolbox
+
+### 🎨 Frontend Arsenal
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-bin-khalid-1605ab170)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaid239)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+|         Category         |                                                                                                                                                                                                             Technologies                                                                                                                                                                                                              |
+| :----------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   **Markup & Styling**   |                                                            ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)                                                            |
+| **JavaScript Ecosystem** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
+|      **Frameworks**      |                                                                                                                                                                ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)                                                                                                                                                                |
+
+</div>
+
+### ⚙️ Backend Powerhouse
+
+<div align="center">
+
+|        Category         |                                                                                                       Technologies                                                                                                       |
+| :---------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Runtime & Framework** |     ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)      |
+|      **Databases**      | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+|   **Cloud Services**    |                                                        ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)                                                        |
+
+</div>
+
+### 🔧 Development Tools
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 📊 GitHub Activity Dashboard
 
-### Frontend Development
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
-### Backend Development
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 📈 Contribution Graph & Stats
 
-</div>
+<table>
+<tr>
+<td width="50%">
 
-### Tools & Platforms
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izaidbinkhalid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true)
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+</td>
+<td width="50%">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=izaidbinkhalid&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+</td>
+</tr>
+</table>
+
+### 💻 Language Distribution
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izaidbinkhalid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects & Portfolio
+## 🌟 What Makes Me Different?
 
 <div align="center">
 
-### 🌟 Recent Work
-
-[![Portfolio](https://img.shields.io/badge/✨_View_My_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myportfolio.com)
-
-### 📂 Explore My Code
-
-[![GitHub Repositories](https://img.shields.io/badge/🔍_Check_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaid239)
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                              ┃
+┃  🎯 CLIENT-FIRST APPROACH                                    ┃
+┃     I don't just code—I understand your business goals     ┃
+┃                                                              ┃
+┃  ⚡ PERFORMANCE OBSESSED                                      ┃
+┃     Every millisecond matters. Every optimization counts    ┃
+┃                                                              ┃
+┃  🎨 DESIGN-MINDED DEVELOPER                                  ┃
+┃     Beautiful code meets beautiful interfaces              ┃
+┃                                                              ┃
+┃  🔒 SECURITY CONSCIOUS                                       ┃
+┃     Building with security best practices from day one      ┃
+┃                                                              ┃
+┃  📱 MOBILE-FIRST PHILOSOPHY                                  ┃
+┃     Responsive by design, perfect on every device          ┃
+┃                                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 What I Can Build For You
 
 <div align="center">
 
-### 📈 Activity & Contributions
+<table>
+<tr>
+<td align="center" width="33%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izaidbinkhalid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF)
+### 🎨 Frontend Magic
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=izaidbinkhalid&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
+Modern, responsive user interfaces that users love to interact with
 
-### 💻 Most Used Languages
+**Tech:** React, Next.js, Tailwind CSS, TypeScript
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izaidbinkhalid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF)
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Backend Excellence
+
+Scalable APIs and server solutions that handle growth
+
+**Tech:** Node.js, Express, MongoDB, PostgreSQL
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 Full-Stack Solutions
+
+End-to-end applications from concept to deployment
+
+**Complete:** Design → Development → Deployment
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 💬 What Clients Say
+## 🎨 Featured Work
 
 <div align="center">
 
-> *"Working with Muhammad Zaid was a game-changer for our project. His attention to detail and ability to deliver on time exceeded our expectations!"*
+### 🌐 Portfolio & Projects
+
+[![Portfolio Website](https://img.shields.io/badge/🌐_View_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://myportfolio.com)](https://myportfolio.com)
+
+[![GitHub Repositories](https://img.shields.io/badge/📂_Explore_Code-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/zaid239)](https://github.com/zaid239)
 
 </div>
 
 ---
 
-## 🎨 Design Philosophy
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-✨ **Clean Code** | 🚀 **Performance First** | 🎯 **User-Centric** | 📱 **Responsive Design** | 🔒 **Security Focused**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/zaid-bin-khalid-1605ab170)](https://linkedin.com/in/zaid-bin-khalid-1605ab170)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/zaid239)](https://github.com/zaid239)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://myportfolio.com)](https://myportfolio.com)
 
 </div>
 
 ---
 
-## 📈 Services I Offer
+## 💬 Random Dev Wisdom
 
 <div align="center">
 
-| Service | Description |
-|---------|-------------|
-| 🎨 **Frontend Development** | Modern, responsive UIs with React, Next.js, and Tailwind CSS |
-| ⚙️ **Backend Development** | Scalable APIs and server-side solutions with Node.js & Express |
-| 🗄️ **Database Design** | Efficient data modeling with MongoDB and PostgreSQL |
-| 🚀 **Full-Stack Solutions** | End-to-end web applications from concept to deployment |
-| 🔧 **Code Optimization** | Performance tuning and best practices implementation |
-| 📱 **Responsive Design** | Mobile-first, cross-device compatible interfaces |
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Skills
+## 📈 My Development Journey
 
 <div align="center">
 
-- ✅ **5+ Years** of web development experience
-- ✅ **50+ Projects** successfully delivered
-- ✅ **Modern Frameworks** expertise (React, Next.js, Node.js)
-- ✅ **Database Management** (MongoDB, PostgreSQL)
-- ✅ **DevOps** knowledge (Docker, CI/CD)
-- ✅ **UI/UX Design** collaboration experience
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  📚 Started with: HTML, CSS, JavaScript                     │
+│  🎓 Mastered: React, Node.js, Full-Stack Development        │
+│  🚀 Currently: Building scalable web applications          │
+│  🔮 Future: Exploring AI/ML integration, Cloud Architecture│
+│                                                             │
+│  💪 Skills: Problem Solving | Code Architecture |           │
+│            Team Collaboration | Agile Development           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 🎪 Fun Facts About Me
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- ☕ **Coffee Enthusiast** - Best code is written with good coffee
+- 🎮 **Gaming Aficionado** - When not coding, I'm gaming
+- 📚 **Lifelong Learner** - Always exploring new technologies
+- 🎨 **Design Lover** - Appreciate good UI/UX design
+- 🚀 **Innovation Seeker** - Love experimenting with new tools
+- 🌍 **Global Thinker** - Building solutions for a connected world
 
 </div>
 
@@ -197,7 +273,7 @@
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=izaidbinkhalid&icon=5&color=3&label=Profile%20Views)
+![Visitor Count](https://visitcount.itsvg.in/api?id=izaidbinkhalid&icon=5&color=0&label=Profile%20Views&labelColor=00D9FF)
 
 </div>
 
@@ -205,17 +281,39 @@
 
 <div align="center">
 
-### 🚀 Ready to Build Something Amazing Together?
+## 🚀 Ready to Build Something Extraordinary?
 
-**Let's turn your vision into reality!** 
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  💡 Have an idea? Let's turn it into reality!            ║
+║  🎯 Need a solution? I'm here to help!                   ║
+║  🚀 Want to collaborate? Let's connect!                  ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-[![Get In Touch](https://img.shields.io/badge/📧_Let's_Talk-6366F1?style=for-the-badge&logo=telegram&logoColor=white)](mailto:your-email@example.com)
+**Let's create something amazing together!** 🎉
 
 ---
 
-⭐️ **Star my repositories if you find them interesting!**
+<div align="center">
 
-Made with ❤️ by **Muhammad Zaid Bin Khalid**
+### ⭐️ If you like what you see, give my repos a star! ⭐️
+
+**Made with ❤️ and lots of ☕ by Muhammad Zaid Bin Khalid**
+
+```diff
++ Always open to new opportunities and exciting projects!
++ Let's code the future together! 🚀
+```
 
 </div>
 
+---
+
+<div align="center">
+
+![Snake animation](https://github.com/izaidbinkhalid/izaidbinkhalid/blob/output/github-contribution-grid-snake.svg)
+
+</div>
